@@ -1,0 +1,5 @@
+Host seas
+
+HostName eniac.seas.upenn.edu
+User ccog
+IdentityFile /home/ccog/.ssh/id_rsa
